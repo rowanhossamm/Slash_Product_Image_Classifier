@@ -26,6 +26,9 @@ Model Building: The CNN model architecture is defined using Keras Sequential API
 
 Training: The model is compiled and trained using the training data.
 
+# vedio
+https://drive.google.com/file/d/1Dk2Gk4yyN76p9T9FMDHaSrHaKwThXFfW/view?usp=sharing
+
 Model Performance Plotting: The model's training and testing accuracy are plotted to visualize its performance over epochs.
 
 Prediction: The predictions function takes a path to a test image and its actual label, preprocesses the image, makes predictions using the trained model, and visualizes the result.
